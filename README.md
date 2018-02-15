@@ -1,4 +1,4 @@
-Getting and Cleaning Data Course Projectless 
+Getting and Cleaning Data Course Project
 
 -CodeBook.md 
 
